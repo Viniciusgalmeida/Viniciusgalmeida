@@ -1,11 +1,15 @@
-### Olá
+
+
+## Olá, meu nome é Vinícius Almeida
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Viniciusgalmeida&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 <p align="left">
-  Meu nome é Vinícius Almeida e sou <strong>Front-End Developer</strong>.
-</p>
+ 💻 Sou <strong>Front-End Developer</strong>.
+</p>  
   
 <p align="left">
-🦸‍♂️ Habilidades: <strong> HTML, CSS, Javascript </strong>
+🦸‍♂️ Habilidades: <strong> HTML, CSS, Javascript </strong>.
 </p>
 <p align="left">  
 🛠 Ferramentas: VSCode, Figma, Trello, Github, Photoshop, Adobe Illustrator, Corel Draw, Sketchup.
