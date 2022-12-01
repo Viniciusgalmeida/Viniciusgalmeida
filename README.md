@@ -9,7 +9,7 @@
 </p>  
   
 <p align="left">
-🦸‍♂️ Habilidades: <strong> HTML, CSS, Javascript </strong>.
+🦸‍♂️ Habilidades: <strong> HTML, CSS, Javascript, React js </strong>.
 </p>
 <p align="left">  
 🛠 Ferramentas: VSCode, Figma, Trello, Github, Photoshop, Adobe Illustrator, Corel Draw, Sketchup.
