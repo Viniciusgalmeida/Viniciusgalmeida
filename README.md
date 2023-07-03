@@ -1,7 +1,7 @@
 ## Hello, my name is Vinícius Almeida.
 
 <p align="left">
- 💻 I am a <strong>Frontend Developer</strong>.
+ 💻 I am a <strong>Software Developer</strong>.
 </p>  
 <p align="left">
 🦸‍♂️ Skills: <strong> ReactJS, JavaScript, Git, Styled Components, HTML, CSS, Bootstrap, Threejs</strong>.
